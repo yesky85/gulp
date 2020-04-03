@@ -1,2 +1,0 @@
-# Gulp
-Initial Gulp
